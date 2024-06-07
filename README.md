@@ -1,4 +1,4 @@
-https://www.zdnet.com/a/img/resize/f5b2a97bc2db2989ccd51c0465e3f3a2448fbf52/2018/10/18/580b4d43-4060-4d90-be23-1f97ef795e4e/github-logo.png?auto=webp&width=1200
+[[!MasterHead](https://en.idei.club/uploads/posts/2023-06/1688026554_en-idei-club-p-frontend-developer-dizain-krasivo-34.jpg)]
 <h1 align="center">Hi 👋, I'm Ayisha Mirza</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
