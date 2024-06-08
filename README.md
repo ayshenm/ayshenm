@@ -1,4 +1,4 @@
-<img src="https://en.idei.club/uploads/posts/2023-06/1688026554_en-idei-club-p-frontend-developer-dizain-krasivo-34.jpg" alt="img"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dfrontend&psig=AOvVaw2wJcugsrHQQeD09e59QONe&ust=1717942849960000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCf8KeXzIYDFQAAAAAdAAAAABAE" alt="img"/>
 <h1 align="center">Hi 👋, I'm Ayisha Mirza</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
