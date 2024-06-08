@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fartstribune.com%2Fhow-much-does-a-front-end-developer-earn%2F&psig=AOvVaw2wJcugsrHQQeD09e59QONe&ust=1717942849960000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCf8KeXzIYDFQAAAAAdAAAAABAJ" alt="img"/>
+<img src="https://www.codeflies.com/wp-content/uploads/2017/04/blog-27-1.jpg" alt="img"/>
 <h1 align="center">Hi 👋, I'm Ayisha Mirza</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
