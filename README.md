@@ -1,4 +1,4 @@
-[[!MasterHead](https://en.idei.club/uploads/posts/2023-06/1688026554_en-idei-club-p-frontend-developer-dizain-krasivo-34.jpg)]
+<img src="https://en.idei.club/uploads/posts/2023-06/1688026554_en-idei-club-p-frontend-developer-dizain-krasivo-34.jpg" alt="img"/>
 <h1 align="center">Hi 👋, I'm Ayisha Mirza</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
