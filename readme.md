@@ -44,8 +44,8 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </br> 
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://sourcebae.com/blog/wp-content/uploads/2023/08/dart-logo-for-shares.png" alt="webpack" width="40" height="40"/> </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://api.reliasoftware.com/uploads/what_is_flutter_fcb6c7a4b8.png" alt="webpack" width="40" height="40"/> </a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://sourcebae.com/blog/wp-content/uploads/2023/08/dart-logo-for-shares.png" alt="webpack" width="60" height="40"/> </a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://api.reliasoftware.com/uploads/what_is_flutter_fcb6c7a4b8.png" alt="webpack" width="60" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayshenm&show_icons=true&locale=en&layout=compact" alt="ayshenm" /></p>
