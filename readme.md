@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAkasDatta%2FAkasDatta&psig=AOvVaw35XHaBeFQTRjbonravtVCY&ust=1736974007152000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjvocGG9ooDFQAAAAAdAAAAABA8)" alt="head-img"/>
+<img src="https://camo.githubusercontent.com/011274c76f9610e780c7a7e05d842710af9756b492b9ab4378fb51d6239e65dc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31362f66652f37652f31366665376537666236656562623330383762366463343138373438656535362e676966" alt="head-img"/>
 
 <h1 align="center">Hi 👋, I'm Ayisha Mirza</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
